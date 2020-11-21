@@ -52,7 +52,6 @@ DELETE FROM titles
 DELETE FROM salaries
 DELETE FROM dept_manager
 DELETE FROM employees
-
 DELETE FROM dept_emp
 
 
